@@ -66,7 +66,7 @@ Start-up
 Commercial
 ~~~~~~~~~~~
 
-* 600€ (zzgl. 16% MwSt)
+* 600€ (zzgl. 19% MwSt)
 * für Unternehmen allgemein.
 * für Sponsoren ist ein größerer Stand im Sponsoring-Betrag enthalten. Siehe Sponsoren_.
 
